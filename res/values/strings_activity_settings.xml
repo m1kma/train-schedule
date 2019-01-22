@@ -1,0 +1,138 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="refresh_rate_entries">
+        <item>Off</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+    </string-array>
+        
+    <string-array name="refresh_rate_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+     <string-array name="stationEntries">
+		<item>Espoo</item>
+		<item>Haarajoki</item>		
+		<item>Helsinki</item>	
+		<item>Hiekkaharju</item>
+		<item>Huopalahti</item>
+		<item>Hyvinkää</item>
+		<item>Ilmala</item>
+		<item>Inkoo</item>
+		<item>Jokela</item>
+		<item>Jorvas</item>
+		<item>Järvenpää</item>
+		<item>Kannelmäki</item>
+		<item>Karjaa</item>
+		<item>Kauklahti</item>
+		<item>Kauniainen</item>
+		<item>Kera</item>
+		<item>Kerava</item>		
+		<item>Kilo</item>
+		<item>Kirkkonummi</item>
+		<item>Koivuhovi</item>
+		<item>Koivukylä</item>
+		<item>Korso</item> 
+		<item>Kyrölä</item>
+		<item>Käpylä</item>
+		<item>Lahti</item>
+		<item>Leppävaara</item>
+		<item>Louhela</item>
+		<item>Luoma</item>
+		<item>Malmi</item>
+		<item>Malminkartano</item>
+		<item>Mankki</item>
+		<item>Martinlaakso</item>
+		<item>Masala</item>
+		<item>Myyrmäki</item>
+		<item>Mäkkylä</item>
+		<item>Mäntsälä</item>
+		<item>Nuppulinna</item>
+		<item>Oulunkylä</item>		
+		<item>Pasila</item>
+		<item>Pitäjänmäki</item>
+		<item>Pohjois-Haaga</item>
+		<item>Puistola</item>
+		<item>Pukinmäki</item>
+		<item>Purola</item>
+		<item>Rekola</item>
+		<item>Riihimäki</item>
+		<item>Saunakallio</item>
+		<item>Savio</item>
+		<item>Siuntio</item>
+		<item>Tapanila</item>
+		<item>Tikkurila</item>
+		<item>Tuomarila</item>
+		<item>Valimo</item>
+		<item>Vantaankoski</item>
+    </string-array>
+    
+    <string-array name="stationValues">
+		<item>EPO</item>
+		<item>HAA</item>
+		<item>HKI</item>
+		<item>HKH</item>
+		<item>HPL</item>
+		<item>HY</item>
+		<item>ILA</item>
+		<item>IKO</item>
+		<item>JK</item>
+		<item>JRS</item>
+		<item>JP</item>
+		<item>KAN</item>
+		<item>KR</item>
+		<item>KLH</item>
+		<item>KNI</item>
+		<item>KEA</item>
+		<item>KE</item>		
+		<item>KIL</item>
+		<item>KKN</item>
+		<item>KVH</item>
+		<item>KVY</item>
+		<item>KRS</item>
+		<item>KRÖ</item>
+		<item>KÄP</item>
+		<item>LH</item>
+		<item>LPV</item>
+		<item>LOH</item>
+		<item>LMA</item>
+		<item>ML</item>
+		<item>MLO</item>
+		<item>MNK</item>
+		<item>MRL</item>
+		<item>MAS</item>
+		<item>MYR</item>
+		<item>MÄK</item>
+		<item>MLÄ</item>
+		<item>NUP</item>
+		<item>OLK</item>
+		<item>PSL</item>	
+		<item>PJM</item>	
+		<item>POH</item>
+		<item>PLA</item>
+		<item>PMK</item>
+		<item>PUR</item>
+		<item>RKL</item>
+		<item>RI</item>
+		<item>SAU</item>
+		<item>SAV</item>
+		<item>STI</item>
+		<item>TNA</item>
+		<item>TKL</item>
+		<item>TRL</item>
+		<item>VMO</item>
+		<item>VKS</item>
+    </string-array>
+    
+     <string-array name="empty_array"/>
+    
+    <string name="pref_header_general">General</string>
+
+</resources>

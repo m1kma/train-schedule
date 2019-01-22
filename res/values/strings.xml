@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Train schedule</string>
+    <string name="action_settings">Settings</string>
+    <string name="feed_url">http://188.117.35.14/TrainRSS/TrainService.svc/StationInfo?station=</string>
+    <string name="headertext">Select commuter traffic station</string>
+    <string name="button_helsinki">↓ To Helsinki</string>
+    <string name="button_others">↑ From Helsinki</string>
+    <string name="cancel">Cancel</string>
+    <string name="about_dialog">About</string>
+    <string name="ok">Close</string>
+    <string name="about_text">Mika Mäkelä © 2015</string>
+    <string name="title_activity_image">Routemap</string>
+    <string name="close">Close</string>
+    <string name="routemap">Routemap</string>
+    <string name="train_url">http://188.117.35.14/TrainRSS/TrainService.svc/TrainInfo?train=</string>
+    <string name="title_activity_train_details">Selected train</string>
+    <string name="enable_colored_list">Colored trainlist</string>
+    <string name="enable_colored_list_summary">Colorize list by train id.</string>
+    <string name="enable_all_trains">Show long-distance trains</string>
+    <string name="enable_all_trains_summary">Show also long-distance trains. Stations not in local traffic area are shown by abbreviations.</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="refresh_rate_title">Refresh rate</string>
+    <string name="refresh_rate_summary">Set refresh rate for automatic list update.</string>
+    <string name="refresh_rate_dialogtitle">Refresh rate</string>
+    <string name="favorite_stations_dialogtitle">Favorite stations</string>
+    <string name="favorite_stations_summary">Select favorite stations positioned to top of station list.</string>
+    <string name="favorite_stations_title">Favorite stations</string>
+    
+</resources>

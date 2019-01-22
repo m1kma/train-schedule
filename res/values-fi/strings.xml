@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asema aikataulu</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="feed_url">http://188.117.35.14/TrainRSS/TrainService.svc/StationInfo?station=</string>
+    <string name="headertext">Valitse lähiliikenteen asema</string>
+    <string name="button_helsinki">↓ Helsinkiin</string>
+    <string name="button_others">↑ Helsingistä</string>
+    <string name="cancel">Peru</string>
+    <string name="about_dialog">About</string>
+    <string name="ok">Close</string>
+    <string name="about_text">Mika Mäkelä © 2015</string>
+    <string name="title_activity_image">Reittikartta</string>
+    <string name="close">Sulje</string>
+    <string name="routemap">Reittikartta</string>
+    <string name="train_url">http://188.117.35.14/TrainRSS/TrainService.svc/TrainInfo?train=</string>
+    <string name="title_activity_train_details">Valittu juna</string>
+    <string name="enable_colored_list">Näytä junalista väreillä</string>
+    <string name="enable_colored_list_summary">Väritä lista junan tunnuksen mukaan.</string>
+    <string name="enable_all_trains">Näytä kaikki junat</string>
+    <string name="enable_all_trains_summary">Näytä myös kaukoliikenteen junat. Lähiliikennealueen ulkopuoliset asemat näkyvät lyhenteenä.</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="refresh_rate_title">Listan päivitysväli</string>
+    <string name="refresh_rate_summary">Aseta aika, jolla junalista päivittyy automaattisesti</string>
+    <string name="refresh_rate_dialogtitle">Listan päivitysväli</string>
+    <string name="favorite_stations_dialogtitle">Suosikkiasemat</string>
+    <string name="favorite_stations_summary">Valitse suosikkiasemat, jotka tulevat asemalistan alkuun.</string>
+    <string name="favorite_stations_title">Suosikkiasemat</string>
+    
+</resources>
